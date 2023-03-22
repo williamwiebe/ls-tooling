@@ -1,1 +1,1 @@
-This repo contains two scripts for downloading audio and images from an RSS feed.
+This repo contains scripts for downloading audio and images from RSS feeds.
